@@ -1,1 +1,1 @@
-# reposit-rio-alura
+# repositorio-alura
